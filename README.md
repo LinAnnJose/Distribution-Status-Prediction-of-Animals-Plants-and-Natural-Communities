@@ -1,0 +1,2 @@
+# Distribution-Status-Prediction-of-Animals-Plants-and-Natural-Communities-.
+Starting from data collection and preprocessing to insightful visualizations, model creation, and developing a user-friendly Streamlit apps. Witness the power of Random Forest, enhanced with hyperparameter tuning, all backed by compelling visualizations showcasing the intricate patterns in animal, plant, and natural community distributions.
